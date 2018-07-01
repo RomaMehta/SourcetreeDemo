@@ -1,3 +1,4 @@
 Repository Options
 1.Local first using create
-2. Remote first (we will use clone)
+2.Remote first (we will use clone)
+3.learning stash
